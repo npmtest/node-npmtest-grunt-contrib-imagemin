@@ -1,7 +1,7 @@
 <svg height="5294" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5294" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">15 megabytes installed</tspan>
+<tspan x="10" y="26">14 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ grunt-contrib-imagemin@1.0.1 </tspan>
@@ -58,7 +58,7 @@
 <tspan x="10" y="890">  │ │ │ │ │ │ ├── is-zip@1.0.0 </tspan>
 <tspan x="10" y="906">  │ │ │ │ │ │ ├── stat-mode@0.2.2 </tspan>
 <tspan x="10" y="922">  │ │ │ │ │ │ ├── through2@2.0.3 </tspan>
-<tspan x="10" y="938">  │ │ │ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="938">  │ │ │ │ │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="954">  │ │ │ │ │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="970">  │ │ │ │ │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="986">  │ │ │ │ │ │     └── pend@1.2.0 </tspan>
@@ -154,7 +154,7 @@
 <tspan x="10" y="2426">  │ │ │ │ │     │ │ └── array-find-index@1.0.2 </tspan>
 <tspan x="10" y="2442">  │ │ │ │ │     │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="2458">  │ │ │ │ │     ├── map-obj@1.0.1 </tspan>
-<tspan x="10" y="2474">  │ │ │ │ │     ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="2474">  │ │ │ │ │     ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="2490">  │ │ │ │ │     │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="2506">  │ │ │ │ │     │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="2522">  │ │ │ │ │     │ │ └── builtin-modules@1.1.1 </tspan>
@@ -283,7 +283,7 @@
 <tspan x="10" y="4490">  │   │ │ ├── filename-regex@2.0.0 </tspan>
 <tspan x="10" y="4506">  │   │ │ ├── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="4522">  │   │ │ ├── is-glob@2.0.1 </tspan>
-<tspan x="10" y="4538">  │   │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="4538">  │   │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="4554">  │   │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="4570">  │   │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="4586">  │   │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
