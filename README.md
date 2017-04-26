@@ -1,6 +1,6 @@
 # npmtest-grunt-contrib-imagemin
 
-#### test coverage for  [grunt-contrib-imagemin (v1.0.1)](https://github.com/gruntjs/grunt-contrib-imagemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-imagemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-imagemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-imagemin.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-imagemin)
+#### basic test coverage for  [grunt-contrib-imagemin (v1.0.1)](https://github.com/gruntjs/grunt-contrib-imagemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-imagemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-imagemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-imagemin.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-imagemin)
 
 #### Minify images
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-imagemin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-imagemin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-contrib-imagemin/build/coverage.html/index.html)
 
@@ -200,7 +200,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
